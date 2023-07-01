@@ -10,10 +10,6 @@ Dieses Lua-Skript implementiert einen einfachen Autoupdater für FiveM-Skripte. 
 
 3. Füge den Autoupdater-Code am Anfang deines FiveM-Skripts hinzu.
 
-    ```lua
-    -- Füge den Autoupdater-Code hier ein
-    ```
-
 4. Lade dein FiveM-Skript mit dem eingebetteten Autoupdater auf deinen Server hoch.
 
 ## Hinweise
